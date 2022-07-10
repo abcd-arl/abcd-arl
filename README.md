@@ -4,3 +4,5 @@
 - ⏱ In my spare time, I either watch anime or play Genshin Impact hehe
 - 🌱 I’m currently planning to start learning Tailwind and React after securing my foundation and understanding on different programming languages.
 - 📫 You can say hi through my email lingga.abdulrahman.u@gmail.com.
+
+![snow-angel-icegif-17](https://user-images.githubusercontent.com/106197019/178164599-a28f32ae-f065-4722-a1aa-75eacd53ccbc.gif)
