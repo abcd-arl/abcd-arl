@@ -1,4 +1,5 @@
 - 👋 Hello! My name is Abdulrahman, but you may call me Arl if you prefer.
+- 🏫 I'm currently taking BS IT in MSU-IIT.
 - ❤️‍🔥 I’m interested in expanding my knowledge in programming and improving my problem-solving skill.
 - ⏱ In my spare time, I either watch anime or play Genshin Impact hehe
 - 🌱 I’m currently planning to start learning Tailwind and React after securing my foundation and understanding on different programming languages.
